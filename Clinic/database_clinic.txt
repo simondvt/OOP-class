@@ -1,0 +1,27 @@
+P;Ben;Sullivan;BENSLL
+P;Aaron;Simon;ARNSMN
+P;Jack;Moyer;JCKMYR
+P;Mike; Davis ; MKEDVS
+FIRST;WRONG;FORMATTED;LINE
+P;Harvey;Corman;HVYCRN
+P;Sandy;Larkin ; SNYLKN
+P;Rolf;Mueller;RLFMLL
+M;23;John;Dorian;JONDRN;Physician
+M ; 34;Elliot;Reid;ELTRID;Physician
+M;24;Christopher ; Turk;CSTTRK;Surgeon
+SECOND;WRONG;FORMATTED;LINE
+M;100;Bob ; Kelso;BOBKLS;Chief_Physician
+M;666;Perry;Cox;PRYCOX;Physician
+M;16;Carla;Espinosa;CRAEPN;Nurse
+M;69;Todd ; Quinlan;TDDQNL;Surgeon
+M;101;Dexter;Morgan;DXTMRG ; Forensic_analyst
+P;Rick;Sanchez ; RCKSNC
+P;Paolo;Cannavaro;PLOCNN
+P;Marco;Di Vaio;MRCDVI
+P ; Lukas; Podolski;LKSPDL
+M ; 123;Gregory;House;GRGHSE;Chief_of_surgery
+THIRD;WRONG;FORMATTED;LINE
+P;Barack;Obama;BRKOBM
+P;Giovanni;Rossi;RSSGNN33B30F316I
+P;Giuseppe;Verdi;VRDGPP76F09B666I
+M;345;Mario;Bianchi;BNCMRA44C99A320Z;Surgeon
